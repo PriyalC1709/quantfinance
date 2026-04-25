@@ -153,9 +153,10 @@ colsample_bytree  = 0.8
 
 ```
 quantfinance/
-├── README.md                           ← this file
+
 ├── QRT Data Challenge/
 │   ├── QRTdatachallenge.ipynb          ← full modelling notebook
+│   ├── README.md                       ← this file
 │   ├── outputs/                        ← figures (gitignored)
 │   └── dataset/                        ← raw CSVs (gitignored)
 └── .gitignore
