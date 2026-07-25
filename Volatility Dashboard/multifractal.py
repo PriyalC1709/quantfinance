@@ -1,6 +1,5 @@
 """
-signals/multifractal.py
-
+multifractal.py
 Rolling multifractal / Hurst regime classifier.
 """
 

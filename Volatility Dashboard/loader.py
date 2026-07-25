@@ -1,6 +1,5 @@
 """
-data/loader.py
-
+loader.py
 Synthetic regime-switching multi-asset price generator.
 """
 

@@ -1,6 +1,5 @@
 """
-portfolio/optimizer.py
-
+optimizer.py
 Portfolio weight optimization: minimum-variance baseline, extended to
 downside-deviation minimization, under parametric constraints.
 """

@@ -1,6 +1,5 @@
 """
-signals/garch_vol_timing.py
-
+garch_vol_timing.py
 GARCH(1,1)-based volatility forecasting for position sizing.
 """
 

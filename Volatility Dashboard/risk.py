@@ -1,6 +1,5 @@
 """
-risk/covariance.py
-
+risk.py
 Covariance estimation: sample, Ledoit-Wolf shrinkage, PCA factor model.
 """
 
